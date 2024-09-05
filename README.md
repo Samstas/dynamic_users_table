@@ -19,7 +19,7 @@ npm install npm@latest -g
 1.  Clone the repository:
 
 ```
-git clone https://github.com/balabol-it/FE_Serbian_Real_Estate.git
+git clone https://github.com/Samstas/dynamic_users_table.git
 ```
 
 1.  Navigate to the project directory:
